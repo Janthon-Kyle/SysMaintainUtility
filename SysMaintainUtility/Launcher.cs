@@ -86,5 +86,15 @@ namespace SysMaintainUtility
         {
             LaunchApp(UtilitiesHome + "GPU-Z/GPU-Z.exe");
         }
+
+        private void BtLcUninstaller_Click(object sender, EventArgs e)
+        {
+            LaunchApp(UtilitiesHome + "HiBitUninstaller/HiBitUninstaller.exe");
+        }
+
+        private void BtLcStartupManager_Click(object sender, EventArgs e)
+        {
+            LaunchApp(UtilitiesHome + "HiBitStartupManager/HiBitStartupManager.exe");
+        }
     }
 }

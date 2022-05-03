@@ -153,6 +153,26 @@ namespace SysMaintainUtility.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap sc_HBStartupManager {
+            get {
+                object obj = ResourceManager.GetObject("sc_HBStartupManager", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap sc_HBUninstaller {
+            get {
+                object obj = ResourceManager.GetObject("sc_HBUninstaller", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap sc_MemTest {
             get {
                 object obj = ResourceManager.GetObject("sc_MemTest", resourceCulture);

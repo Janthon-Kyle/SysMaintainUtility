@@ -147,108 +147,22 @@
             this.uiTableLayoutPanel32 = new Sunny.UI.UITableLayoutPanel();
             this.uiTitlePanel31 = new Sunny.UI.UITitlePanel();
             this.uiLabel15 = new Sunny.UI.UILabel();
-            this.uiButton15 = new Sunny.UI.UIButton();
+            this.btLcUninstaller = new Sunny.UI.UIButton();
             this.tabPage16 = new System.Windows.Forms.TabPage();
             this.uiTableLayoutPanel33 = new Sunny.UI.UITableLayoutPanel();
             this.uiTableLayoutPanel34 = new Sunny.UI.UITableLayoutPanel();
             this.uiTitlePanel32 = new Sunny.UI.UITitlePanel();
             this.uiLabel16 = new Sunny.UI.UILabel();
-            this.uiButton16 = new Sunny.UI.UIButton();
+            this.btLcStartupManager = new Sunny.UI.UIButton();
             this.uiTitlePanel33 = new Sunny.UI.UITitlePanel();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
-            this.tabPage17 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel35 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel36 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel34 = new Sunny.UI.UITitlePanel();
-            this.uiLabel17 = new Sunny.UI.UILabel();
-            this.uiButton17 = new Sunny.UI.UIButton();
-            this.uiTitlePanel35 = new Sunny.UI.UITitlePanel();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.tabPage18 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel37 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel38 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel36 = new Sunny.UI.UITitlePanel();
-            this.uiLabel18 = new Sunny.UI.UILabel();
-            this.uiButton18 = new Sunny.UI.UIButton();
-            this.uiTitlePanel37 = new Sunny.UI.UITitlePanel();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.tabPage19 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel39 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel40 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel38 = new Sunny.UI.UITitlePanel();
-            this.uiLabel19 = new Sunny.UI.UILabel();
-            this.uiButton19 = new Sunny.UI.UIButton();
-            this.uiTitlePanel39 = new Sunny.UI.UITitlePanel();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
             this.tabPageDriverInstall = new System.Windows.Forms.TabPage();
             this.uiTabControl6 = new Sunny.UI.UITabControl();
             this.tabPage21 = new System.Windows.Forms.TabPage();
-            this.tabPage22 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel45 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel46 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel44 = new Sunny.UI.UITitlePanel();
-            this.uiLabel22 = new Sunny.UI.UILabel();
-            this.uiButton22 = new Sunny.UI.UIButton();
-            this.uiTitlePanel45 = new Sunny.UI.UITitlePanel();
-            this.pictureBox18 = new System.Windows.Forms.PictureBox();
-            this.tabPage23 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel47 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel48 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel46 = new Sunny.UI.UITitlePanel();
-            this.uiLabel23 = new Sunny.UI.UILabel();
-            this.uiButton23 = new Sunny.UI.UIButton();
-            this.uiTitlePanel47 = new Sunny.UI.UITitlePanel();
-            this.pictureBox19 = new System.Windows.Forms.PictureBox();
-            this.tabPage24 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel49 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel50 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel48 = new Sunny.UI.UITitlePanel();
-            this.uiLabel24 = new Sunny.UI.UILabel();
-            this.uiButton24 = new Sunny.UI.UIButton();
-            this.uiTitlePanel49 = new Sunny.UI.UITitlePanel();
-            this.pictureBox20 = new System.Windows.Forms.PictureBox();
+            this.tabPage20 = new System.Windows.Forms.TabPage();
             this.tabPageSoftwareActivation = new System.Windows.Forms.TabPage();
             this.uiTabControl7 = new Sunny.UI.UITabControl();
             this.tabPage25 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel51 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel50 = new Sunny.UI.UITitlePanel();
-            this.pictureBox21 = new System.Windows.Forms.PictureBox();
-            this.uiTableLayoutPanel52 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel51 = new Sunny.UI.UITitlePanel();
-            this.uiLabel25 = new Sunny.UI.UILabel();
-            this.uiButton25 = new Sunny.UI.UIButton();
-            this.tabPage26 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel53 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel54 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel52 = new Sunny.UI.UITitlePanel();
-            this.uiLabel26 = new Sunny.UI.UILabel();
-            this.uiButton26 = new Sunny.UI.UIButton();
-            this.uiTitlePanel53 = new Sunny.UI.UITitlePanel();
-            this.pictureBox22 = new System.Windows.Forms.PictureBox();
-            this.tabPage27 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel55 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel56 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel54 = new Sunny.UI.UITitlePanel();
-            this.uiLabel27 = new Sunny.UI.UILabel();
-            this.uiButton27 = new Sunny.UI.UIButton();
-            this.uiTitlePanel55 = new Sunny.UI.UITitlePanel();
-            this.pictureBox23 = new System.Windows.Forms.PictureBox();
-            this.tabPage28 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel57 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel58 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel56 = new Sunny.UI.UITitlePanel();
-            this.uiLabel28 = new Sunny.UI.UILabel();
-            this.uiButton28 = new Sunny.UI.UIButton();
-            this.uiTitlePanel57 = new Sunny.UI.UITitlePanel();
-            this.pictureBox24 = new System.Windows.Forms.PictureBox();
-            this.tabPage29 = new System.Windows.Forms.TabPage();
-            this.uiTableLayoutPanel59 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTableLayoutPanel60 = new Sunny.UI.UITableLayoutPanel();
-            this.uiTitlePanel58 = new Sunny.UI.UITitlePanel();
-            this.uiLabel29 = new Sunny.UI.UILabel();
-            this.uiButton29 = new Sunny.UI.UIButton();
-            this.uiTitlePanel59 = new Sunny.UI.UITitlePanel();
-            this.pictureBox25 = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.uiTableLayoutPanel3 = new Sunny.UI.UITableLayoutPanel();
             this.uiTitlePanel2 = new Sunny.UI.UITitlePanel();
@@ -380,76 +294,10 @@
             this.uiTitlePanel32.SuspendLayout();
             this.uiTitlePanel33.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            this.tabPage17.SuspendLayout();
-            this.uiTableLayoutPanel35.SuspendLayout();
-            this.uiTableLayoutPanel36.SuspendLayout();
-            this.uiTitlePanel34.SuspendLayout();
-            this.uiTitlePanel35.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
-            this.tabPage18.SuspendLayout();
-            this.uiTableLayoutPanel37.SuspendLayout();
-            this.uiTableLayoutPanel38.SuspendLayout();
-            this.uiTitlePanel36.SuspendLayout();
-            this.uiTitlePanel37.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
-            this.tabPage19.SuspendLayout();
-            this.uiTableLayoutPanel39.SuspendLayout();
-            this.uiTableLayoutPanel40.SuspendLayout();
-            this.uiTitlePanel38.SuspendLayout();
-            this.uiTitlePanel39.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             this.tabPageDriverInstall.SuspendLayout();
             this.uiTabControl6.SuspendLayout();
-            this.tabPage22.SuspendLayout();
-            this.uiTableLayoutPanel45.SuspendLayout();
-            this.uiTableLayoutPanel46.SuspendLayout();
-            this.uiTitlePanel44.SuspendLayout();
-            this.uiTitlePanel45.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
-            this.tabPage23.SuspendLayout();
-            this.uiTableLayoutPanel47.SuspendLayout();
-            this.uiTableLayoutPanel48.SuspendLayout();
-            this.uiTitlePanel46.SuspendLayout();
-            this.uiTitlePanel47.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
-            this.tabPage24.SuspendLayout();
-            this.uiTableLayoutPanel49.SuspendLayout();
-            this.uiTableLayoutPanel50.SuspendLayout();
-            this.uiTitlePanel48.SuspendLayout();
-            this.uiTitlePanel49.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
             this.tabPageSoftwareActivation.SuspendLayout();
             this.uiTabControl7.SuspendLayout();
-            this.tabPage25.SuspendLayout();
-            this.uiTableLayoutPanel51.SuspendLayout();
-            this.uiTitlePanel50.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
-            this.uiTableLayoutPanel52.SuspendLayout();
-            this.uiTitlePanel51.SuspendLayout();
-            this.tabPage26.SuspendLayout();
-            this.uiTableLayoutPanel53.SuspendLayout();
-            this.uiTableLayoutPanel54.SuspendLayout();
-            this.uiTitlePanel52.SuspendLayout();
-            this.uiTitlePanel53.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
-            this.tabPage27.SuspendLayout();
-            this.uiTableLayoutPanel55.SuspendLayout();
-            this.uiTableLayoutPanel56.SuspendLayout();
-            this.uiTitlePanel54.SuspendLayout();
-            this.uiTitlePanel55.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
-            this.tabPage28.SuspendLayout();
-            this.uiTableLayoutPanel57.SuspendLayout();
-            this.uiTableLayoutPanel58.SuspendLayout();
-            this.uiTitlePanel56.SuspendLayout();
-            this.uiTitlePanel57.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            this.tabPage29.SuspendLayout();
-            this.uiTableLayoutPanel59.SuspendLayout();
-            this.uiTableLayoutPanel60.SuspendLayout();
-            this.uiTitlePanel58.SuspendLayout();
-            this.uiTitlePanel59.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             this.uiTableLayoutPanel3.SuspendLayout();
             this.uiTableLayoutPanel4.SuspendLayout();
             this.tabPage5.SuspendLayout();
@@ -516,8 +364,8 @@
             this.uiTabControl18.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTabControl18.DrawMode = System.Windows.Forms.TabDrawMode.OwnerDrawFixed;
             this.uiTabControl18.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.uiTabControl18.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTabControl18.ItemSize = new System.Drawing.Size(120, 32);
+            this.uiTabControl18.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiTabControl18.ItemSize = new System.Drawing.Size(100, 32);
             this.uiTabControl18.Location = new System.Drawing.Point(0, 0);
             this.uiTabControl18.MainPage = "";
             this.uiTabControl18.Name = "uiTabControl18";
@@ -1250,7 +1098,7 @@
             this.uiTabControl4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTabControl4.DrawMode = System.Windows.Forms.TabDrawMode.OwnerDrawFixed;
             this.uiTabControl4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.uiTabControl4.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiTabControl4.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.uiTabControl4.ItemSize = new System.Drawing.Size(82, 32);
             this.uiTabControl4.Location = new System.Drawing.Point(0, 0);
             this.uiTabControl4.MainPage = "";
@@ -1851,7 +1699,7 @@
             this.tabPage11.Controls.Add(this.uiTableLayoutPanel23);
             this.tabPage11.Location = new System.Drawing.Point(0, 0);
             this.tabPage11.Name = "tabPage11";
-            this.tabPage11.Size = new System.Drawing.Size(544, 313);
+            this.tabPage11.Size = new System.Drawing.Size(200, 60);
             this.tabPage11.TabIndex = 2;
             this.tabPage11.Text = "CPU-Z";
             // 
@@ -1868,7 +1716,7 @@
             this.uiTableLayoutPanel23.Name = "uiTableLayoutPanel23";
             this.uiTableLayoutPanel23.RowCount = 1;
             this.uiTableLayoutPanel23.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel23.Size = new System.Drawing.Size(544, 313);
+            this.uiTableLayoutPanel23.Size = new System.Drawing.Size(200, 60);
             this.uiTableLayoutPanel23.TabIndex = 2;
             this.uiTableLayoutPanel23.TagString = null;
             // 
@@ -1879,12 +1727,12 @@
             this.uiTableLayoutPanel24.Controls.Add(this.uiTitlePanel22, 0, 0);
             this.uiTableLayoutPanel24.Controls.Add(this.btLcCPUZ, 0, 1);
             this.uiTableLayoutPanel24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel24.Location = new System.Drawing.Point(379, 3);
+            this.uiTableLayoutPanel24.Location = new System.Drawing.Point(35, 3);
             this.uiTableLayoutPanel24.Name = "uiTableLayoutPanel24";
             this.uiTableLayoutPanel24.RowCount = 2;
             this.uiTableLayoutPanel24.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
             this.uiTableLayoutPanel24.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel24.Size = new System.Drawing.Size(162, 307);
+            this.uiTableLayoutPanel24.Size = new System.Drawing.Size(162, 54);
             this.uiTableLayoutPanel24.TabIndex = 2;
             this.uiTableLayoutPanel24.TagString = null;
             // 
@@ -1899,7 +1747,7 @@
             this.uiTitlePanel22.Name = "uiTitlePanel22";
             this.uiTitlePanel22.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
             this.uiTitlePanel22.ShowText = false;
-            this.uiTitlePanel22.Size = new System.Drawing.Size(154, 249);
+            this.uiTitlePanel22.Size = new System.Drawing.Size(154, 35);
             this.uiTitlePanel22.TabIndex = 0;
             this.uiTitlePanel22.Text = "工具简介";
             this.uiTitlePanel22.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1913,7 +1761,7 @@
             this.uiLabel11.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.uiLabel11.Location = new System.Drawing.Point(0, 28);
             this.uiLabel11.Name = "uiLabel11";
-            this.uiLabel11.Size = new System.Drawing.Size(154, 221);
+            this.uiLabel11.Size = new System.Drawing.Size(154, 7);
             this.uiLabel11.TabIndex = 0;
             this.uiLabel11.Text = "CPU-Z 是一款轻量级使用程序，可收集关于处理器的名称、型号、频率等信息。";
             this.uiLabel11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1923,10 +1771,10 @@
             // 
             this.btLcCPUZ.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btLcCPUZ.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btLcCPUZ.Location = new System.Drawing.Point(3, 262);
+            this.btLcCPUZ.Location = new System.Drawing.Point(3, 48);
             this.btLcCPUZ.MinimumSize = new System.Drawing.Size(1, 1);
             this.btLcCPUZ.Name = "btLcCPUZ";
-            this.btLcCPUZ.Size = new System.Drawing.Size(156, 42);
+            this.btLcCPUZ.Size = new System.Drawing.Size(156, 3);
             this.btLcCPUZ.TabIndex = 1;
             this.btLcCPUZ.Text = "运行";
             this.btLcCPUZ.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
@@ -1943,7 +1791,7 @@
             this.uiTitlePanel23.Name = "uiTitlePanel23";
             this.uiTitlePanel23.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
             this.uiTitlePanel23.ShowText = false;
-            this.uiTitlePanel23.Size = new System.Drawing.Size(368, 303);
+            this.uiTitlePanel23.Size = new System.Drawing.Size(24, 50);
             this.uiTitlePanel23.TabIndex = 0;
             this.uiTitlePanel23.Text = "工具截图";
             this.uiTitlePanel23.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1956,7 +1804,7 @@
             this.pictureBox7.Image = global::SysMaintainUtility.Properties.Resources.sc_CPUZ;
             this.pictureBox7.Location = new System.Drawing.Point(0, 35);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(368, 268);
+            this.pictureBox7.Size = new System.Drawing.Size(24, 15);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox7.TabIndex = 1;
             this.pictureBox7.TabStop = false;
@@ -2092,13 +1940,10 @@
             this.uiTabControl5.Alignment = System.Windows.Forms.TabAlignment.Bottom;
             this.uiTabControl5.Controls.Add(this.tabPage15);
             this.uiTabControl5.Controls.Add(this.tabPage16);
-            this.uiTabControl5.Controls.Add(this.tabPage17);
-            this.uiTabControl5.Controls.Add(this.tabPage18);
-            this.uiTabControl5.Controls.Add(this.tabPage19);
             this.uiTabControl5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTabControl5.DrawMode = System.Windows.Forms.TabDrawMode.OwnerDrawFixed;
             this.uiTabControl5.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.uiTabControl5.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiTabControl5.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.uiTabControl5.ItemSize = new System.Drawing.Size(120, 32);
             this.uiTabControl5.Location = new System.Drawing.Point(0, 0);
             this.uiTabControl5.MainPage = "";
@@ -2121,7 +1966,7 @@
             this.tabPage15.Name = "tabPage15";
             this.tabPage15.Size = new System.Drawing.Size(544, 313);
             this.tabPage15.TabIndex = 0;
-            this.tabPage15.Text = "WinNTSetup";
+            this.tabPage15.Text = "Uninstaller";
             // 
             // uiTableLayoutPanel31
             // 
@@ -2161,6 +2006,7 @@
             // 
             this.pictureBox11.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox11.Image = global::SysMaintainUtility.Properties.Resources.sc_HBUninstaller;
             this.pictureBox11.Location = new System.Drawing.Point(0, 35);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(368, 268);
@@ -2173,7 +2019,7 @@
             this.uiTableLayoutPanel32.ColumnCount = 1;
             this.uiTableLayoutPanel32.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.uiTableLayoutPanel32.Controls.Add(this.uiTitlePanel31, 0, 0);
-            this.uiTableLayoutPanel32.Controls.Add(this.uiButton15, 0, 1);
+            this.uiTableLayoutPanel32.Controls.Add(this.btLcUninstaller, 0, 1);
             this.uiTableLayoutPanel32.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTableLayoutPanel32.Location = new System.Drawing.Point(379, 3);
             this.uiTableLayoutPanel32.Name = "uiTableLayoutPanel32";
@@ -2211,21 +2057,22 @@
             this.uiLabel15.Name = "uiLabel15";
             this.uiLabel15.Size = new System.Drawing.Size(154, 221);
             this.uiLabel15.TabIndex = 0;
-            this.uiLabel15.Text = "工具简介在此，从这里开始编辑工具说明";
+            this.uiLabel15.Text = "HiBit Uninstaller 是卸载 Windows 软件的完美解决方案，允许您使用其简单且用户友好的界面快速、完整地卸载程序。";
             this.uiLabel15.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiLabel15.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
             // 
-            // uiButton15
+            // btLcUninstaller
             // 
-            this.uiButton15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton15.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton15.Location = new System.Drawing.Point(3, 262);
-            this.uiButton15.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton15.Name = "uiButton15";
-            this.uiButton15.Size = new System.Drawing.Size(156, 42);
-            this.uiButton15.TabIndex = 1;
-            this.uiButton15.Text = "运行";
-            this.uiButton15.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.btLcUninstaller.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btLcUninstaller.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btLcUninstaller.Location = new System.Drawing.Point(3, 262);
+            this.btLcUninstaller.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btLcUninstaller.Name = "btLcUninstaller";
+            this.btLcUninstaller.Size = new System.Drawing.Size(156, 42);
+            this.btLcUninstaller.TabIndex = 1;
+            this.btLcUninstaller.Text = "运行";
+            this.btLcUninstaller.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.btLcUninstaller.Click += new System.EventHandler(this.BtLcUninstaller_Click);
             // 
             // tabPage16
             // 
@@ -2233,9 +2080,9 @@
             this.tabPage16.Controls.Add(this.uiTableLayoutPanel33);
             this.tabPage16.Location = new System.Drawing.Point(0, 0);
             this.tabPage16.Name = "tabPage16";
-            this.tabPage16.Size = new System.Drawing.Size(200, 60);
+            this.tabPage16.Size = new System.Drawing.Size(544, 313);
             this.tabPage16.TabIndex = 2;
-            this.tabPage16.Text = "DiskGenius";
+            this.tabPage16.Text = "Startup Manager";
             // 
             // uiTableLayoutPanel33
             // 
@@ -2250,7 +2097,7 @@
             this.uiTableLayoutPanel33.Name = "uiTableLayoutPanel33";
             this.uiTableLayoutPanel33.RowCount = 1;
             this.uiTableLayoutPanel33.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel33.Size = new System.Drawing.Size(200, 60);
+            this.uiTableLayoutPanel33.Size = new System.Drawing.Size(544, 313);
             this.uiTableLayoutPanel33.TabIndex = 2;
             this.uiTableLayoutPanel33.TagString = null;
             // 
@@ -2259,14 +2106,14 @@
             this.uiTableLayoutPanel34.ColumnCount = 1;
             this.uiTableLayoutPanel34.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.uiTableLayoutPanel34.Controls.Add(this.uiTitlePanel32, 0, 0);
-            this.uiTableLayoutPanel34.Controls.Add(this.uiButton16, 0, 1);
+            this.uiTableLayoutPanel34.Controls.Add(this.btLcStartupManager, 0, 1);
             this.uiTableLayoutPanel34.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel34.Location = new System.Drawing.Point(35, 3);
+            this.uiTableLayoutPanel34.Location = new System.Drawing.Point(379, 3);
             this.uiTableLayoutPanel34.Name = "uiTableLayoutPanel34";
             this.uiTableLayoutPanel34.RowCount = 2;
             this.uiTableLayoutPanel34.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
             this.uiTableLayoutPanel34.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel34.Size = new System.Drawing.Size(162, 54);
+            this.uiTableLayoutPanel34.Size = new System.Drawing.Size(162, 307);
             this.uiTableLayoutPanel34.TabIndex = 2;
             this.uiTableLayoutPanel34.TagString = null;
             // 
@@ -2281,7 +2128,7 @@
             this.uiTitlePanel32.Name = "uiTitlePanel32";
             this.uiTitlePanel32.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
             this.uiTitlePanel32.ShowText = false;
-            this.uiTitlePanel32.Size = new System.Drawing.Size(154, 35);
+            this.uiTitlePanel32.Size = new System.Drawing.Size(154, 249);
             this.uiTitlePanel32.TabIndex = 0;
             this.uiTitlePanel32.Text = "工具简介";
             this.uiTitlePanel32.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2295,23 +2142,25 @@
             this.uiLabel16.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.uiLabel16.Location = new System.Drawing.Point(0, 28);
             this.uiLabel16.Name = "uiLabel16";
-            this.uiLabel16.Size = new System.Drawing.Size(154, 7);
+            this.uiLabel16.Size = new System.Drawing.Size(154, 221);
             this.uiLabel16.TabIndex = 0;
-            this.uiLabel16.Text = "工具简介在此，从这里开始编辑工具说明";
+            this.uiLabel16.Text = "HiBit Startup Manager 是一个功能强大的启动实用程序，通过添加或删除应用程序，编辑其属性以及管理进程、服务、任务计划程序和菜单来管理自动启动程" +
+    "序。";
             this.uiLabel16.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.uiLabel16.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
             // 
-            // uiButton16
+            // btLcStartupManager
             // 
-            this.uiButton16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton16.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton16.Location = new System.Drawing.Point(3, 48);
-            this.uiButton16.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton16.Name = "uiButton16";
-            this.uiButton16.Size = new System.Drawing.Size(156, 3);
-            this.uiButton16.TabIndex = 1;
-            this.uiButton16.Text = "运行";
-            this.uiButton16.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.btLcStartupManager.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btLcStartupManager.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btLcStartupManager.Location = new System.Drawing.Point(3, 262);
+            this.btLcStartupManager.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btLcStartupManager.Name = "btLcStartupManager";
+            this.btLcStartupManager.Size = new System.Drawing.Size(156, 42);
+            this.btLcStartupManager.TabIndex = 1;
+            this.btLcStartupManager.Text = "运行";
+            this.btLcStartupManager.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.btLcStartupManager.Click += new System.EventHandler(this.BtLcStartupManager_Click);
             // 
             // uiTitlePanel33
             // 
@@ -2324,7 +2173,7 @@
             this.uiTitlePanel33.Name = "uiTitlePanel33";
             this.uiTitlePanel33.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
             this.uiTitlePanel33.ShowText = false;
-            this.uiTitlePanel33.Size = new System.Drawing.Size(24, 50);
+            this.uiTitlePanel33.Size = new System.Drawing.Size(368, 303);
             this.uiTitlePanel33.TabIndex = 0;
             this.uiTitlePanel33.Text = "工具截图";
             this.uiTitlePanel33.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2334,358 +2183,13 @@
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox12.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
+            this.pictureBox12.Image = global::SysMaintainUtility.Properties.Resources.sc_HBStartupManager;
             this.pictureBox12.Location = new System.Drawing.Point(0, 35);
             this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(24, 15);
+            this.pictureBox12.Size = new System.Drawing.Size(368, 268);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox12.TabIndex = 1;
             this.pictureBox12.TabStop = false;
-            // 
-            // tabPage17
-            // 
-            this.tabPage17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage17.Controls.Add(this.uiTableLayoutPanel35);
-            this.tabPage17.Location = new System.Drawing.Point(0, 0);
-            this.tabPage17.Name = "tabPage17";
-            this.tabPage17.Size = new System.Drawing.Size(200, 60);
-            this.tabPage17.TabIndex = 3;
-            this.tabPage17.Text = "BootICE";
-            // 
-            // uiTableLayoutPanel35
-            // 
-            this.uiTableLayoutPanel35.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel35.ColumnCount = 2;
-            this.uiTableLayoutPanel35.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel35.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel35.Controls.Add(this.uiTableLayoutPanel36, 0, 0);
-            this.uiTableLayoutPanel35.Controls.Add(this.uiTitlePanel35, 0, 0);
-            this.uiTableLayoutPanel35.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel35.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel35.Name = "uiTableLayoutPanel35";
-            this.uiTableLayoutPanel35.RowCount = 1;
-            this.uiTableLayoutPanel35.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel35.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel35.TabIndex = 2;
-            this.uiTableLayoutPanel35.TagString = null;
-            // 
-            // uiTableLayoutPanel36
-            // 
-            this.uiTableLayoutPanel36.ColumnCount = 1;
-            this.uiTableLayoutPanel36.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel36.Controls.Add(this.uiTitlePanel34, 0, 0);
-            this.uiTableLayoutPanel36.Controls.Add(this.uiButton17, 0, 1);
-            this.uiTableLayoutPanel36.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel36.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel36.Name = "uiTableLayoutPanel36";
-            this.uiTableLayoutPanel36.RowCount = 2;
-            this.uiTableLayoutPanel36.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel36.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel36.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel36.TabIndex = 2;
-            this.uiTableLayoutPanel36.TagString = null;
-            // 
-            // uiTitlePanel34
-            // 
-            this.uiTitlePanel34.Controls.Add(this.uiLabel17);
-            this.uiTitlePanel34.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel34.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel34.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel34.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel34.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel34.Name = "uiTitlePanel34";
-            this.uiTitlePanel34.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel34.ShowText = false;
-            this.uiTitlePanel34.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel34.TabIndex = 0;
-            this.uiTitlePanel34.Text = "工具简介";
-            this.uiTitlePanel34.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel34.TitleHeight = 28;
-            this.uiTitlePanel34.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel17
-            // 
-            this.uiLabel17.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel17.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel17.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel17.Name = "uiLabel17";
-            this.uiLabel17.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel17.TabIndex = 0;
-            this.uiLabel17.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel17.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel17.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton17
-            // 
-            this.uiButton17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton17.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton17.Location = new System.Drawing.Point(3, 48);
-            this.uiButton17.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton17.Name = "uiButton17";
-            this.uiButton17.Size = new System.Drawing.Size(156, 3);
-            this.uiButton17.TabIndex = 1;
-            this.uiButton17.Text = "运行";
-            this.uiButton17.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel35
-            // 
-            this.uiTitlePanel35.Controls.Add(this.pictureBox13);
-            this.uiTitlePanel35.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel35.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel35.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel35.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel35.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel35.Name = "uiTitlePanel35";
-            this.uiTitlePanel35.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel35.ShowText = false;
-            this.uiTitlePanel35.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel35.TabIndex = 0;
-            this.uiTitlePanel35.Text = "工具截图";
-            this.uiTitlePanel35.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel35.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox13
-            // 
-            this.pictureBox13.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox13.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox13.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox13.TabIndex = 1;
-            this.pictureBox13.TabStop = false;
-            // 
-            // tabPage18
-            // 
-            this.tabPage18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage18.Controls.Add(this.uiTableLayoutPanel37);
-            this.tabPage18.Location = new System.Drawing.Point(0, 0);
-            this.tabPage18.Name = "tabPage18";
-            this.tabPage18.Size = new System.Drawing.Size(200, 60);
-            this.tabPage18.TabIndex = 4;
-            this.tabPage18.Text = "NTPWEdit";
-            // 
-            // uiTableLayoutPanel37
-            // 
-            this.uiTableLayoutPanel37.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel37.ColumnCount = 2;
-            this.uiTableLayoutPanel37.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel37.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel37.Controls.Add(this.uiTableLayoutPanel38, 0, 0);
-            this.uiTableLayoutPanel37.Controls.Add(this.uiTitlePanel37, 0, 0);
-            this.uiTableLayoutPanel37.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel37.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel37.Name = "uiTableLayoutPanel37";
-            this.uiTableLayoutPanel37.RowCount = 1;
-            this.uiTableLayoutPanel37.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel37.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel37.TabIndex = 3;
-            this.uiTableLayoutPanel37.TagString = null;
-            // 
-            // uiTableLayoutPanel38
-            // 
-            this.uiTableLayoutPanel38.ColumnCount = 1;
-            this.uiTableLayoutPanel38.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel38.Controls.Add(this.uiTitlePanel36, 0, 0);
-            this.uiTableLayoutPanel38.Controls.Add(this.uiButton18, 0, 1);
-            this.uiTableLayoutPanel38.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel38.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel38.Name = "uiTableLayoutPanel38";
-            this.uiTableLayoutPanel38.RowCount = 2;
-            this.uiTableLayoutPanel38.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel38.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel38.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel38.TabIndex = 2;
-            this.uiTableLayoutPanel38.TagString = null;
-            // 
-            // uiTitlePanel36
-            // 
-            this.uiTitlePanel36.Controls.Add(this.uiLabel18);
-            this.uiTitlePanel36.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel36.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel36.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel36.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel36.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel36.Name = "uiTitlePanel36";
-            this.uiTitlePanel36.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel36.ShowText = false;
-            this.uiTitlePanel36.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel36.TabIndex = 0;
-            this.uiTitlePanel36.Text = "工具简介";
-            this.uiTitlePanel36.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel36.TitleHeight = 28;
-            this.uiTitlePanel36.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel18
-            // 
-            this.uiLabel18.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel18.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel18.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel18.Name = "uiLabel18";
-            this.uiLabel18.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel18.TabIndex = 0;
-            this.uiLabel18.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel18.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel18.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton18
-            // 
-            this.uiButton18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton18.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton18.Location = new System.Drawing.Point(3, 48);
-            this.uiButton18.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton18.Name = "uiButton18";
-            this.uiButton18.Size = new System.Drawing.Size(156, 3);
-            this.uiButton18.TabIndex = 1;
-            this.uiButton18.Text = "运行";
-            this.uiButton18.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel37
-            // 
-            this.uiTitlePanel37.Controls.Add(this.pictureBox14);
-            this.uiTitlePanel37.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel37.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel37.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel37.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel37.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel37.Name = "uiTitlePanel37";
-            this.uiTitlePanel37.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel37.ShowText = false;
-            this.uiTitlePanel37.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel37.TabIndex = 0;
-            this.uiTitlePanel37.Text = "工具截图";
-            this.uiTitlePanel37.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel37.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox14
-            // 
-            this.pictureBox14.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox14.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox14.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox14.TabIndex = 1;
-            this.pictureBox14.TabStop = false;
-            // 
-            // tabPage19
-            // 
-            this.tabPage19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage19.Controls.Add(this.uiTableLayoutPanel39);
-            this.tabPage19.Location = new System.Drawing.Point(0, 0);
-            this.tabPage19.Name = "tabPage19";
-            this.tabPage19.Size = new System.Drawing.Size(200, 60);
-            this.tabPage19.TabIndex = 5;
-            this.tabPage19.Text = "RegWorkshop";
-            // 
-            // uiTableLayoutPanel39
-            // 
-            this.uiTableLayoutPanel39.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel39.ColumnCount = 2;
-            this.uiTableLayoutPanel39.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel39.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel39.Controls.Add(this.uiTableLayoutPanel40, 0, 0);
-            this.uiTableLayoutPanel39.Controls.Add(this.uiTitlePanel39, 0, 0);
-            this.uiTableLayoutPanel39.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel39.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel39.Name = "uiTableLayoutPanel39";
-            this.uiTableLayoutPanel39.RowCount = 1;
-            this.uiTableLayoutPanel39.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel39.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel39.TabIndex = 4;
-            this.uiTableLayoutPanel39.TagString = null;
-            // 
-            // uiTableLayoutPanel40
-            // 
-            this.uiTableLayoutPanel40.ColumnCount = 1;
-            this.uiTableLayoutPanel40.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel40.Controls.Add(this.uiTitlePanel38, 0, 0);
-            this.uiTableLayoutPanel40.Controls.Add(this.uiButton19, 0, 1);
-            this.uiTableLayoutPanel40.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel40.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel40.Name = "uiTableLayoutPanel40";
-            this.uiTableLayoutPanel40.RowCount = 2;
-            this.uiTableLayoutPanel40.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel40.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel40.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel40.TabIndex = 2;
-            this.uiTableLayoutPanel40.TagString = null;
-            // 
-            // uiTitlePanel38
-            // 
-            this.uiTitlePanel38.Controls.Add(this.uiLabel19);
-            this.uiTitlePanel38.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel38.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel38.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel38.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel38.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel38.Name = "uiTitlePanel38";
-            this.uiTitlePanel38.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel38.ShowText = false;
-            this.uiTitlePanel38.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel38.TabIndex = 0;
-            this.uiTitlePanel38.Text = "工具简介";
-            this.uiTitlePanel38.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel38.TitleHeight = 28;
-            this.uiTitlePanel38.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel19
-            // 
-            this.uiLabel19.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel19.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel19.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel19.Name = "uiLabel19";
-            this.uiLabel19.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel19.TabIndex = 0;
-            this.uiLabel19.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel19.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel19.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton19
-            // 
-            this.uiButton19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton19.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton19.Location = new System.Drawing.Point(3, 48);
-            this.uiButton19.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton19.Name = "uiButton19";
-            this.uiButton19.Size = new System.Drawing.Size(156, 3);
-            this.uiButton19.TabIndex = 1;
-            this.uiButton19.Text = "运行";
-            this.uiButton19.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel39
-            // 
-            this.uiTitlePanel39.Controls.Add(this.pictureBox15);
-            this.uiTitlePanel39.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel39.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel39.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel39.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel39.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel39.Name = "uiTitlePanel39";
-            this.uiTitlePanel39.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel39.ShowText = false;
-            this.uiTitlePanel39.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel39.TabIndex = 0;
-            this.uiTitlePanel39.Text = "工具截图";
-            this.uiTitlePanel39.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel39.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox15
-            // 
-            this.pictureBox15.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox15.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox15.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox15.TabIndex = 1;
-            this.pictureBox15.TabStop = false;
             // 
             // tabPageDriverInstall
             // 
@@ -2701,14 +2205,12 @@
             // 
             this.uiTabControl6.Alignment = System.Windows.Forms.TabAlignment.Bottom;
             this.uiTabControl6.Controls.Add(this.tabPage21);
-            this.uiTabControl6.Controls.Add(this.tabPage22);
-            this.uiTabControl6.Controls.Add(this.tabPage23);
-            this.uiTabControl6.Controls.Add(this.tabPage24);
+            this.uiTabControl6.Controls.Add(this.tabPage20);
             this.uiTabControl6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTabControl6.DrawMode = System.Windows.Forms.TabDrawMode.OwnerDrawFixed;
             this.uiTabControl6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.uiTabControl6.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTabControl6.ItemSize = new System.Drawing.Size(120, 32);
+            this.uiTabControl6.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiTabControl6.ItemSize = new System.Drawing.Size(132, 32);
             this.uiTabControl6.Location = new System.Drawing.Point(0, 0);
             this.uiTabControl6.MainPage = "";
             this.uiTabControl6.Name = "uiTabControl6";
@@ -2729,352 +2231,16 @@
             this.tabPage21.Name = "tabPage21";
             this.tabPage21.Size = new System.Drawing.Size(544, 313);
             this.tabPage21.TabIndex = 2;
-            this.tabPage21.Text = "KM bizhub C226";
+            this.tabPage21.Text = "KONICA MINOLTA";
             // 
-            // tabPage22
+            // tabPage20
             // 
-            this.tabPage22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage22.Controls.Add(this.uiTableLayoutPanel45);
-            this.tabPage22.Location = new System.Drawing.Point(0, 0);
-            this.tabPage22.Name = "tabPage22";
-            this.tabPage22.Size = new System.Drawing.Size(200, 60);
-            this.tabPage22.TabIndex = 3;
-            this.tabPage22.Text = "BootICE";
-            // 
-            // uiTableLayoutPanel45
-            // 
-            this.uiTableLayoutPanel45.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel45.ColumnCount = 2;
-            this.uiTableLayoutPanel45.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel45.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel45.Controls.Add(this.uiTableLayoutPanel46, 0, 0);
-            this.uiTableLayoutPanel45.Controls.Add(this.uiTitlePanel45, 0, 0);
-            this.uiTableLayoutPanel45.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel45.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel45.Name = "uiTableLayoutPanel45";
-            this.uiTableLayoutPanel45.RowCount = 1;
-            this.uiTableLayoutPanel45.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel45.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel45.TabIndex = 2;
-            this.uiTableLayoutPanel45.TagString = null;
-            // 
-            // uiTableLayoutPanel46
-            // 
-            this.uiTableLayoutPanel46.ColumnCount = 1;
-            this.uiTableLayoutPanel46.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel46.Controls.Add(this.uiTitlePanel44, 0, 0);
-            this.uiTableLayoutPanel46.Controls.Add(this.uiButton22, 0, 1);
-            this.uiTableLayoutPanel46.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel46.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel46.Name = "uiTableLayoutPanel46";
-            this.uiTableLayoutPanel46.RowCount = 2;
-            this.uiTableLayoutPanel46.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel46.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel46.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel46.TabIndex = 2;
-            this.uiTableLayoutPanel46.TagString = null;
-            // 
-            // uiTitlePanel44
-            // 
-            this.uiTitlePanel44.Controls.Add(this.uiLabel22);
-            this.uiTitlePanel44.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel44.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel44.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel44.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel44.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel44.Name = "uiTitlePanel44";
-            this.uiTitlePanel44.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel44.ShowText = false;
-            this.uiTitlePanel44.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel44.TabIndex = 0;
-            this.uiTitlePanel44.Text = "工具简介";
-            this.uiTitlePanel44.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel44.TitleHeight = 28;
-            this.uiTitlePanel44.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel22
-            // 
-            this.uiLabel22.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel22.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel22.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel22.Name = "uiLabel22";
-            this.uiLabel22.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel22.TabIndex = 0;
-            this.uiLabel22.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel22.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel22.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton22
-            // 
-            this.uiButton22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton22.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton22.Location = new System.Drawing.Point(3, 48);
-            this.uiButton22.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton22.Name = "uiButton22";
-            this.uiButton22.Size = new System.Drawing.Size(156, 3);
-            this.uiButton22.TabIndex = 1;
-            this.uiButton22.Text = "运行";
-            this.uiButton22.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel45
-            // 
-            this.uiTitlePanel45.Controls.Add(this.pictureBox18);
-            this.uiTitlePanel45.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel45.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel45.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel45.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel45.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel45.Name = "uiTitlePanel45";
-            this.uiTitlePanel45.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel45.ShowText = false;
-            this.uiTitlePanel45.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel45.TabIndex = 0;
-            this.uiTitlePanel45.Text = "工具截图";
-            this.uiTitlePanel45.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel45.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox18
-            // 
-            this.pictureBox18.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox18.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox18.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox18.TabIndex = 1;
-            this.pictureBox18.TabStop = false;
-            // 
-            // tabPage23
-            // 
-            this.tabPage23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage23.Controls.Add(this.uiTableLayoutPanel47);
-            this.tabPage23.Location = new System.Drawing.Point(0, 0);
-            this.tabPage23.Name = "tabPage23";
-            this.tabPage23.Size = new System.Drawing.Size(200, 60);
-            this.tabPage23.TabIndex = 4;
-            this.tabPage23.Text = "NTPWEdit";
-            // 
-            // uiTableLayoutPanel47
-            // 
-            this.uiTableLayoutPanel47.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel47.ColumnCount = 2;
-            this.uiTableLayoutPanel47.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel47.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel47.Controls.Add(this.uiTableLayoutPanel48, 0, 0);
-            this.uiTableLayoutPanel47.Controls.Add(this.uiTitlePanel47, 0, 0);
-            this.uiTableLayoutPanel47.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel47.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel47.Name = "uiTableLayoutPanel47";
-            this.uiTableLayoutPanel47.RowCount = 1;
-            this.uiTableLayoutPanel47.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel47.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel47.TabIndex = 3;
-            this.uiTableLayoutPanel47.TagString = null;
-            // 
-            // uiTableLayoutPanel48
-            // 
-            this.uiTableLayoutPanel48.ColumnCount = 1;
-            this.uiTableLayoutPanel48.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel48.Controls.Add(this.uiTitlePanel46, 0, 0);
-            this.uiTableLayoutPanel48.Controls.Add(this.uiButton23, 0, 1);
-            this.uiTableLayoutPanel48.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel48.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel48.Name = "uiTableLayoutPanel48";
-            this.uiTableLayoutPanel48.RowCount = 2;
-            this.uiTableLayoutPanel48.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel48.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel48.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel48.TabIndex = 2;
-            this.uiTableLayoutPanel48.TagString = null;
-            // 
-            // uiTitlePanel46
-            // 
-            this.uiTitlePanel46.Controls.Add(this.uiLabel23);
-            this.uiTitlePanel46.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel46.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel46.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel46.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel46.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel46.Name = "uiTitlePanel46";
-            this.uiTitlePanel46.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel46.ShowText = false;
-            this.uiTitlePanel46.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel46.TabIndex = 0;
-            this.uiTitlePanel46.Text = "工具简介";
-            this.uiTitlePanel46.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel46.TitleHeight = 28;
-            this.uiTitlePanel46.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel23
-            // 
-            this.uiLabel23.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel23.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel23.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel23.Name = "uiLabel23";
-            this.uiLabel23.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel23.TabIndex = 0;
-            this.uiLabel23.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel23.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel23.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton23
-            // 
-            this.uiButton23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton23.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton23.Location = new System.Drawing.Point(3, 48);
-            this.uiButton23.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton23.Name = "uiButton23";
-            this.uiButton23.Size = new System.Drawing.Size(156, 3);
-            this.uiButton23.TabIndex = 1;
-            this.uiButton23.Text = "运行";
-            this.uiButton23.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel47
-            // 
-            this.uiTitlePanel47.Controls.Add(this.pictureBox19);
-            this.uiTitlePanel47.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel47.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel47.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel47.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel47.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel47.Name = "uiTitlePanel47";
-            this.uiTitlePanel47.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel47.ShowText = false;
-            this.uiTitlePanel47.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel47.TabIndex = 0;
-            this.uiTitlePanel47.Text = "工具截图";
-            this.uiTitlePanel47.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel47.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox19
-            // 
-            this.pictureBox19.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox19.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox19.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox19.TabIndex = 1;
-            this.pictureBox19.TabStop = false;
-            // 
-            // tabPage24
-            // 
-            this.tabPage24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage24.Controls.Add(this.uiTableLayoutPanel49);
-            this.tabPage24.Location = new System.Drawing.Point(0, 0);
-            this.tabPage24.Name = "tabPage24";
-            this.tabPage24.Size = new System.Drawing.Size(200, 60);
-            this.tabPage24.TabIndex = 5;
-            this.tabPage24.Text = "RegWorkshop";
-            // 
-            // uiTableLayoutPanel49
-            // 
-            this.uiTableLayoutPanel49.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel49.ColumnCount = 2;
-            this.uiTableLayoutPanel49.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel49.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel49.Controls.Add(this.uiTableLayoutPanel50, 0, 0);
-            this.uiTableLayoutPanel49.Controls.Add(this.uiTitlePanel49, 0, 0);
-            this.uiTableLayoutPanel49.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel49.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel49.Name = "uiTableLayoutPanel49";
-            this.uiTableLayoutPanel49.RowCount = 1;
-            this.uiTableLayoutPanel49.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel49.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel49.TabIndex = 4;
-            this.uiTableLayoutPanel49.TagString = null;
-            // 
-            // uiTableLayoutPanel50
-            // 
-            this.uiTableLayoutPanel50.ColumnCount = 1;
-            this.uiTableLayoutPanel50.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel50.Controls.Add(this.uiTitlePanel48, 0, 0);
-            this.uiTableLayoutPanel50.Controls.Add(this.uiButton24, 0, 1);
-            this.uiTableLayoutPanel50.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel50.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel50.Name = "uiTableLayoutPanel50";
-            this.uiTableLayoutPanel50.RowCount = 2;
-            this.uiTableLayoutPanel50.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel50.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel50.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel50.TabIndex = 2;
-            this.uiTableLayoutPanel50.TagString = null;
-            // 
-            // uiTitlePanel48
-            // 
-            this.uiTitlePanel48.Controls.Add(this.uiLabel24);
-            this.uiTitlePanel48.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel48.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel48.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel48.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel48.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel48.Name = "uiTitlePanel48";
-            this.uiTitlePanel48.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel48.ShowText = false;
-            this.uiTitlePanel48.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel48.TabIndex = 0;
-            this.uiTitlePanel48.Text = "工具简介";
-            this.uiTitlePanel48.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel48.TitleHeight = 28;
-            this.uiTitlePanel48.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel24
-            // 
-            this.uiLabel24.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel24.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel24.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel24.Name = "uiLabel24";
-            this.uiLabel24.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel24.TabIndex = 0;
-            this.uiLabel24.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel24.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel24.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton24
-            // 
-            this.uiButton24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton24.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton24.Location = new System.Drawing.Point(3, 48);
-            this.uiButton24.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton24.Name = "uiButton24";
-            this.uiButton24.Size = new System.Drawing.Size(156, 3);
-            this.uiButton24.TabIndex = 1;
-            this.uiButton24.Text = "运行";
-            this.uiButton24.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel49
-            // 
-            this.uiTitlePanel49.Controls.Add(this.pictureBox20);
-            this.uiTitlePanel49.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel49.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel49.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel49.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel49.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel49.Name = "uiTitlePanel49";
-            this.uiTitlePanel49.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel49.ShowText = false;
-            this.uiTitlePanel49.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel49.TabIndex = 0;
-            this.uiTitlePanel49.Text = "工具截图";
-            this.uiTitlePanel49.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel49.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox20
-            // 
-            this.pictureBox20.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox20.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox20.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox20.Name = "pictureBox20";
-            this.pictureBox20.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox20.TabIndex = 1;
-            this.pictureBox20.TabStop = false;
+            this.tabPage20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
+            this.tabPage20.Location = new System.Drawing.Point(0, 0);
+            this.tabPage20.Name = "tabPage20";
+            this.tabPage20.Size = new System.Drawing.Size(200, 60);
+            this.tabPage20.TabIndex = 3;
+            this.tabPage20.Text = "brother";
             // 
             // tabPageSoftwareActivation
             // 
@@ -3090,14 +2256,10 @@
             // 
             this.uiTabControl7.Alignment = System.Windows.Forms.TabAlignment.Bottom;
             this.uiTabControl7.Controls.Add(this.tabPage25);
-            this.uiTabControl7.Controls.Add(this.tabPage26);
-            this.uiTabControl7.Controls.Add(this.tabPage27);
-            this.uiTabControl7.Controls.Add(this.tabPage28);
-            this.uiTabControl7.Controls.Add(this.tabPage29);
             this.uiTabControl7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTabControl7.DrawMode = System.Windows.Forms.TabDrawMode.OwnerDrawFixed;
             this.uiTabControl7.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.uiTabControl7.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiTabControl7.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.uiTabControl7.ItemSize = new System.Drawing.Size(120, 32);
             this.uiTabControl7.Location = new System.Drawing.Point(0, 0);
             this.uiTabControl7.MainPage = "";
@@ -3115,577 +2277,11 @@
             // tabPage25
             // 
             this.tabPage25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage25.Controls.Add(this.uiTableLayoutPanel51);
             this.tabPage25.Location = new System.Drawing.Point(0, 0);
             this.tabPage25.Name = "tabPage25";
             this.tabPage25.Size = new System.Drawing.Size(544, 313);
             this.tabPage25.TabIndex = 0;
-            this.tabPage25.Text = "WinNTSetup";
-            // 
-            // uiTableLayoutPanel51
-            // 
-            this.uiTableLayoutPanel51.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel51.ColumnCount = 2;
-            this.uiTableLayoutPanel51.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel51.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel51.Controls.Add(this.uiTitlePanel50, 0, 0);
-            this.uiTableLayoutPanel51.Controls.Add(this.uiTableLayoutPanel52, 1, 0);
-            this.uiTableLayoutPanel51.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel51.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel51.Name = "uiTableLayoutPanel51";
-            this.uiTableLayoutPanel51.RowCount = 1;
-            this.uiTableLayoutPanel51.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel51.Size = new System.Drawing.Size(544, 313);
-            this.uiTableLayoutPanel51.TabIndex = 1;
-            this.uiTableLayoutPanel51.TagString = null;
-            // 
-            // uiTitlePanel50
-            // 
-            this.uiTitlePanel50.Controls.Add(this.pictureBox21);
-            this.uiTitlePanel50.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel50.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel50.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel50.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel50.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel50.Name = "uiTitlePanel50";
-            this.uiTitlePanel50.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel50.ShowText = false;
-            this.uiTitlePanel50.Size = new System.Drawing.Size(368, 303);
-            this.uiTitlePanel50.TabIndex = 0;
-            this.uiTitlePanel50.Text = "工具截图";
-            this.uiTitlePanel50.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel50.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox21
-            // 
-            this.pictureBox21.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox21.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox21.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(368, 268);
-            this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox21.TabIndex = 0;
-            this.pictureBox21.TabStop = false;
-            // 
-            // uiTableLayoutPanel52
-            // 
-            this.uiTableLayoutPanel52.ColumnCount = 1;
-            this.uiTableLayoutPanel52.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel52.Controls.Add(this.uiTitlePanel51, 0, 0);
-            this.uiTableLayoutPanel52.Controls.Add(this.uiButton25, 0, 1);
-            this.uiTableLayoutPanel52.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel52.Location = new System.Drawing.Point(379, 3);
-            this.uiTableLayoutPanel52.Name = "uiTableLayoutPanel52";
-            this.uiTableLayoutPanel52.RowCount = 2;
-            this.uiTableLayoutPanel52.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel52.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel52.Size = new System.Drawing.Size(162, 307);
-            this.uiTableLayoutPanel52.TabIndex = 1;
-            this.uiTableLayoutPanel52.TagString = null;
-            // 
-            // uiTitlePanel51
-            // 
-            this.uiTitlePanel51.Controls.Add(this.uiLabel25);
-            this.uiTitlePanel51.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel51.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel51.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel51.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel51.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel51.Name = "uiTitlePanel51";
-            this.uiTitlePanel51.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel51.ShowText = false;
-            this.uiTitlePanel51.Size = new System.Drawing.Size(154, 249);
-            this.uiTitlePanel51.TabIndex = 0;
-            this.uiTitlePanel51.Text = "工具简介";
-            this.uiTitlePanel51.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel51.TitleHeight = 28;
-            this.uiTitlePanel51.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel25
-            // 
-            this.uiLabel25.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel25.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel25.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel25.Name = "uiLabel25";
-            this.uiLabel25.Size = new System.Drawing.Size(154, 221);
-            this.uiLabel25.TabIndex = 0;
-            this.uiLabel25.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel25.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel25.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton25
-            // 
-            this.uiButton25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton25.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton25.Location = new System.Drawing.Point(3, 262);
-            this.uiButton25.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton25.Name = "uiButton25";
-            this.uiButton25.Size = new System.Drawing.Size(156, 42);
-            this.uiButton25.TabIndex = 1;
-            this.uiButton25.Text = "运行";
-            this.uiButton25.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // tabPage26
-            // 
-            this.tabPage26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage26.Controls.Add(this.uiTableLayoutPanel53);
-            this.tabPage26.Location = new System.Drawing.Point(0, 0);
-            this.tabPage26.Name = "tabPage26";
-            this.tabPage26.Size = new System.Drawing.Size(200, 60);
-            this.tabPage26.TabIndex = 2;
-            this.tabPage26.Text = "DiskGenius";
-            // 
-            // uiTableLayoutPanel53
-            // 
-            this.uiTableLayoutPanel53.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel53.ColumnCount = 2;
-            this.uiTableLayoutPanel53.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel53.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel53.Controls.Add(this.uiTableLayoutPanel54, 0, 0);
-            this.uiTableLayoutPanel53.Controls.Add(this.uiTitlePanel53, 0, 0);
-            this.uiTableLayoutPanel53.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel53.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel53.Name = "uiTableLayoutPanel53";
-            this.uiTableLayoutPanel53.RowCount = 1;
-            this.uiTableLayoutPanel53.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel53.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel53.TabIndex = 2;
-            this.uiTableLayoutPanel53.TagString = null;
-            // 
-            // uiTableLayoutPanel54
-            // 
-            this.uiTableLayoutPanel54.ColumnCount = 1;
-            this.uiTableLayoutPanel54.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel54.Controls.Add(this.uiTitlePanel52, 0, 0);
-            this.uiTableLayoutPanel54.Controls.Add(this.uiButton26, 0, 1);
-            this.uiTableLayoutPanel54.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel54.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel54.Name = "uiTableLayoutPanel54";
-            this.uiTableLayoutPanel54.RowCount = 2;
-            this.uiTableLayoutPanel54.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel54.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel54.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel54.TabIndex = 2;
-            this.uiTableLayoutPanel54.TagString = null;
-            // 
-            // uiTitlePanel52
-            // 
-            this.uiTitlePanel52.Controls.Add(this.uiLabel26);
-            this.uiTitlePanel52.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel52.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel52.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel52.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel52.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel52.Name = "uiTitlePanel52";
-            this.uiTitlePanel52.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel52.ShowText = false;
-            this.uiTitlePanel52.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel52.TabIndex = 0;
-            this.uiTitlePanel52.Text = "工具简介";
-            this.uiTitlePanel52.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel52.TitleHeight = 28;
-            this.uiTitlePanel52.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel26
-            // 
-            this.uiLabel26.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel26.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel26.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel26.Name = "uiLabel26";
-            this.uiLabel26.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel26.TabIndex = 0;
-            this.uiLabel26.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel26.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel26.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton26
-            // 
-            this.uiButton26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton26.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton26.Location = new System.Drawing.Point(3, 48);
-            this.uiButton26.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton26.Name = "uiButton26";
-            this.uiButton26.Size = new System.Drawing.Size(156, 3);
-            this.uiButton26.TabIndex = 1;
-            this.uiButton26.Text = "运行";
-            this.uiButton26.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel53
-            // 
-            this.uiTitlePanel53.Controls.Add(this.pictureBox22);
-            this.uiTitlePanel53.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel53.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel53.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel53.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel53.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel53.Name = "uiTitlePanel53";
-            this.uiTitlePanel53.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel53.ShowText = false;
-            this.uiTitlePanel53.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel53.TabIndex = 0;
-            this.uiTitlePanel53.Text = "工具截图";
-            this.uiTitlePanel53.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel53.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox22
-            // 
-            this.pictureBox22.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox22.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox22.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox22.TabIndex = 1;
-            this.pictureBox22.TabStop = false;
-            // 
-            // tabPage27
-            // 
-            this.tabPage27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage27.Controls.Add(this.uiTableLayoutPanel55);
-            this.tabPage27.Location = new System.Drawing.Point(0, 0);
-            this.tabPage27.Name = "tabPage27";
-            this.tabPage27.Size = new System.Drawing.Size(200, 60);
-            this.tabPage27.TabIndex = 3;
-            this.tabPage27.Text = "BootICE";
-            // 
-            // uiTableLayoutPanel55
-            // 
-            this.uiTableLayoutPanel55.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel55.ColumnCount = 2;
-            this.uiTableLayoutPanel55.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel55.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel55.Controls.Add(this.uiTableLayoutPanel56, 0, 0);
-            this.uiTableLayoutPanel55.Controls.Add(this.uiTitlePanel55, 0, 0);
-            this.uiTableLayoutPanel55.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel55.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel55.Name = "uiTableLayoutPanel55";
-            this.uiTableLayoutPanel55.RowCount = 1;
-            this.uiTableLayoutPanel55.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel55.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel55.TabIndex = 2;
-            this.uiTableLayoutPanel55.TagString = null;
-            // 
-            // uiTableLayoutPanel56
-            // 
-            this.uiTableLayoutPanel56.ColumnCount = 1;
-            this.uiTableLayoutPanel56.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel56.Controls.Add(this.uiTitlePanel54, 0, 0);
-            this.uiTableLayoutPanel56.Controls.Add(this.uiButton27, 0, 1);
-            this.uiTableLayoutPanel56.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel56.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel56.Name = "uiTableLayoutPanel56";
-            this.uiTableLayoutPanel56.RowCount = 2;
-            this.uiTableLayoutPanel56.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel56.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel56.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel56.TabIndex = 2;
-            this.uiTableLayoutPanel56.TagString = null;
-            // 
-            // uiTitlePanel54
-            // 
-            this.uiTitlePanel54.Controls.Add(this.uiLabel27);
-            this.uiTitlePanel54.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel54.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel54.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel54.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel54.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel54.Name = "uiTitlePanel54";
-            this.uiTitlePanel54.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel54.ShowText = false;
-            this.uiTitlePanel54.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel54.TabIndex = 0;
-            this.uiTitlePanel54.Text = "工具简介";
-            this.uiTitlePanel54.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel54.TitleHeight = 28;
-            this.uiTitlePanel54.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel27
-            // 
-            this.uiLabel27.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel27.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel27.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel27.Name = "uiLabel27";
-            this.uiLabel27.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel27.TabIndex = 0;
-            this.uiLabel27.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel27.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel27.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton27
-            // 
-            this.uiButton27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton27.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton27.Location = new System.Drawing.Point(3, 48);
-            this.uiButton27.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton27.Name = "uiButton27";
-            this.uiButton27.Size = new System.Drawing.Size(156, 3);
-            this.uiButton27.TabIndex = 1;
-            this.uiButton27.Text = "运行";
-            this.uiButton27.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel55
-            // 
-            this.uiTitlePanel55.Controls.Add(this.pictureBox23);
-            this.uiTitlePanel55.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel55.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel55.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel55.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel55.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel55.Name = "uiTitlePanel55";
-            this.uiTitlePanel55.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel55.ShowText = false;
-            this.uiTitlePanel55.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel55.TabIndex = 0;
-            this.uiTitlePanel55.Text = "工具截图";
-            this.uiTitlePanel55.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel55.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox23
-            // 
-            this.pictureBox23.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox23.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox23.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox23.Name = "pictureBox23";
-            this.pictureBox23.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox23.TabIndex = 1;
-            this.pictureBox23.TabStop = false;
-            // 
-            // tabPage28
-            // 
-            this.tabPage28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage28.Controls.Add(this.uiTableLayoutPanel57);
-            this.tabPage28.Location = new System.Drawing.Point(0, 0);
-            this.tabPage28.Name = "tabPage28";
-            this.tabPage28.Size = new System.Drawing.Size(200, 60);
-            this.tabPage28.TabIndex = 4;
-            this.tabPage28.Text = "NTPWEdit";
-            // 
-            // uiTableLayoutPanel57
-            // 
-            this.uiTableLayoutPanel57.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel57.ColumnCount = 2;
-            this.uiTableLayoutPanel57.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel57.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel57.Controls.Add(this.uiTableLayoutPanel58, 0, 0);
-            this.uiTableLayoutPanel57.Controls.Add(this.uiTitlePanel57, 0, 0);
-            this.uiTableLayoutPanel57.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel57.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel57.Name = "uiTableLayoutPanel57";
-            this.uiTableLayoutPanel57.RowCount = 1;
-            this.uiTableLayoutPanel57.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel57.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel57.TabIndex = 3;
-            this.uiTableLayoutPanel57.TagString = null;
-            // 
-            // uiTableLayoutPanel58
-            // 
-            this.uiTableLayoutPanel58.ColumnCount = 1;
-            this.uiTableLayoutPanel58.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel58.Controls.Add(this.uiTitlePanel56, 0, 0);
-            this.uiTableLayoutPanel58.Controls.Add(this.uiButton28, 0, 1);
-            this.uiTableLayoutPanel58.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel58.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel58.Name = "uiTableLayoutPanel58";
-            this.uiTableLayoutPanel58.RowCount = 2;
-            this.uiTableLayoutPanel58.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel58.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel58.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel58.TabIndex = 2;
-            this.uiTableLayoutPanel58.TagString = null;
-            // 
-            // uiTitlePanel56
-            // 
-            this.uiTitlePanel56.Controls.Add(this.uiLabel28);
-            this.uiTitlePanel56.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel56.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel56.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel56.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel56.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel56.Name = "uiTitlePanel56";
-            this.uiTitlePanel56.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel56.ShowText = false;
-            this.uiTitlePanel56.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel56.TabIndex = 0;
-            this.uiTitlePanel56.Text = "工具简介";
-            this.uiTitlePanel56.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel56.TitleHeight = 28;
-            this.uiTitlePanel56.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel28
-            // 
-            this.uiLabel28.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel28.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel28.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel28.Name = "uiLabel28";
-            this.uiLabel28.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel28.TabIndex = 0;
-            this.uiLabel28.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel28.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel28.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton28
-            // 
-            this.uiButton28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton28.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton28.Location = new System.Drawing.Point(3, 48);
-            this.uiButton28.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton28.Name = "uiButton28";
-            this.uiButton28.Size = new System.Drawing.Size(156, 3);
-            this.uiButton28.TabIndex = 1;
-            this.uiButton28.Text = "运行";
-            this.uiButton28.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel57
-            // 
-            this.uiTitlePanel57.Controls.Add(this.pictureBox24);
-            this.uiTitlePanel57.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel57.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel57.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel57.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel57.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel57.Name = "uiTitlePanel57";
-            this.uiTitlePanel57.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel57.ShowText = false;
-            this.uiTitlePanel57.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel57.TabIndex = 0;
-            this.uiTitlePanel57.Text = "工具截图";
-            this.uiTitlePanel57.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel57.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox24
-            // 
-            this.pictureBox24.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox24.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox24.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox24.Name = "pictureBox24";
-            this.pictureBox24.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox24.TabIndex = 1;
-            this.pictureBox24.TabStop = false;
-            // 
-            // tabPage29
-            // 
-            this.tabPage29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage29.Controls.Add(this.uiTableLayoutPanel59);
-            this.tabPage29.Location = new System.Drawing.Point(0, 0);
-            this.tabPage29.Name = "tabPage29";
-            this.tabPage29.Size = new System.Drawing.Size(200, 60);
-            this.tabPage29.TabIndex = 5;
-            this.tabPage29.Text = "RegWorkshop";
-            // 
-            // uiTableLayoutPanel59
-            // 
-            this.uiTableLayoutPanel59.BackColor = System.Drawing.Color.Transparent;
-            this.uiTableLayoutPanel59.ColumnCount = 2;
-            this.uiTableLayoutPanel59.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel59.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168F));
-            this.uiTableLayoutPanel59.Controls.Add(this.uiTableLayoutPanel60, 0, 0);
-            this.uiTableLayoutPanel59.Controls.Add(this.uiTitlePanel59, 0, 0);
-            this.uiTableLayoutPanel59.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel59.Location = new System.Drawing.Point(0, 0);
-            this.uiTableLayoutPanel59.Name = "uiTableLayoutPanel59";
-            this.uiTableLayoutPanel59.RowCount = 1;
-            this.uiTableLayoutPanel59.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel59.Size = new System.Drawing.Size(200, 60);
-            this.uiTableLayoutPanel59.TabIndex = 4;
-            this.uiTableLayoutPanel59.TagString = null;
-            // 
-            // uiTableLayoutPanel60
-            // 
-            this.uiTableLayoutPanel60.ColumnCount = 1;
-            this.uiTableLayoutPanel60.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel60.Controls.Add(this.uiTitlePanel58, 0, 0);
-            this.uiTableLayoutPanel60.Controls.Add(this.uiButton29, 0, 1);
-            this.uiTableLayoutPanel60.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel60.Location = new System.Drawing.Point(35, 3);
-            this.uiTableLayoutPanel60.Name = "uiTableLayoutPanel60";
-            this.uiTableLayoutPanel60.RowCount = 2;
-            this.uiTableLayoutPanel60.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
-            this.uiTableLayoutPanel60.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel60.Size = new System.Drawing.Size(162, 54);
-            this.uiTableLayoutPanel60.TabIndex = 2;
-            this.uiTableLayoutPanel60.TagString = null;
-            // 
-            // uiTitlePanel58
-            // 
-            this.uiTitlePanel58.Controls.Add(this.uiLabel29);
-            this.uiTitlePanel58.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel58.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel58.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel58.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel58.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel58.Name = "uiTitlePanel58";
-            this.uiTitlePanel58.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
-            this.uiTitlePanel58.ShowText = false;
-            this.uiTitlePanel58.Size = new System.Drawing.Size(154, 35);
-            this.uiTitlePanel58.TabIndex = 0;
-            this.uiTitlePanel58.Text = "工具简介";
-            this.uiTitlePanel58.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel58.TitleHeight = 28;
-            this.uiTitlePanel58.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiLabel29
-            // 
-            this.uiLabel29.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel29.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiLabel29.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiLabel29.Location = new System.Drawing.Point(0, 28);
-            this.uiLabel29.Name = "uiLabel29";
-            this.uiLabel29.Size = new System.Drawing.Size(154, 7);
-            this.uiLabel29.TabIndex = 0;
-            this.uiLabel29.Text = "工具简介在此，从这里开始编辑工具说明";
-            this.uiLabel29.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiLabel29.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiButton29
-            // 
-            this.uiButton29.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiButton29.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiButton29.Location = new System.Drawing.Point(3, 48);
-            this.uiButton29.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiButton29.Name = "uiButton29";
-            this.uiButton29.Size = new System.Drawing.Size(156, 3);
-            this.uiButton29.TabIndex = 1;
-            this.uiButton29.Text = "运行";
-            this.uiButton29.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // uiTitlePanel59
-            // 
-            this.uiTitlePanel59.Controls.Add(this.pictureBox25);
-            this.uiTitlePanel59.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTitlePanel59.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.uiTitlePanel59.Location = new System.Drawing.Point(4, 5);
-            this.uiTitlePanel59.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiTitlePanel59.MinimumSize = new System.Drawing.Size(1, 1);
-            this.uiTitlePanel59.Name = "uiTitlePanel59";
-            this.uiTitlePanel59.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
-            this.uiTitlePanel59.ShowText = false;
-            this.uiTitlePanel59.Size = new System.Drawing.Size(24, 50);
-            this.uiTitlePanel59.TabIndex = 0;
-            this.uiTitlePanel59.Text = "工具截图";
-            this.uiTitlePanel59.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.uiTitlePanel59.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
-            // 
-            // pictureBox25
-            // 
-            this.pictureBox25.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox25.Image = global::SysMaintainUtility.Properties.Resources.sc_WinNTSetup;
-            this.pictureBox25.Location = new System.Drawing.Point(0, 35);
-            this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(24, 15);
-            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox25.TabIndex = 1;
-            this.pictureBox25.TabStop = false;
+            this.tabPage25.Text = "KMS Activation";
             // 
             // tabPage2
             // 
@@ -4295,76 +2891,10 @@
             this.uiTitlePanel32.ResumeLayout(false);
             this.uiTitlePanel33.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            this.tabPage17.ResumeLayout(false);
-            this.uiTableLayoutPanel35.ResumeLayout(false);
-            this.uiTableLayoutPanel36.ResumeLayout(false);
-            this.uiTitlePanel34.ResumeLayout(false);
-            this.uiTitlePanel35.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
-            this.tabPage18.ResumeLayout(false);
-            this.uiTableLayoutPanel37.ResumeLayout(false);
-            this.uiTableLayoutPanel38.ResumeLayout(false);
-            this.uiTitlePanel36.ResumeLayout(false);
-            this.uiTitlePanel37.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
-            this.tabPage19.ResumeLayout(false);
-            this.uiTableLayoutPanel39.ResumeLayout(false);
-            this.uiTableLayoutPanel40.ResumeLayout(false);
-            this.uiTitlePanel38.ResumeLayout(false);
-            this.uiTitlePanel39.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
             this.tabPageDriverInstall.ResumeLayout(false);
             this.uiTabControl6.ResumeLayout(false);
-            this.tabPage22.ResumeLayout(false);
-            this.uiTableLayoutPanel45.ResumeLayout(false);
-            this.uiTableLayoutPanel46.ResumeLayout(false);
-            this.uiTitlePanel44.ResumeLayout(false);
-            this.uiTitlePanel45.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
-            this.tabPage23.ResumeLayout(false);
-            this.uiTableLayoutPanel47.ResumeLayout(false);
-            this.uiTableLayoutPanel48.ResumeLayout(false);
-            this.uiTitlePanel46.ResumeLayout(false);
-            this.uiTitlePanel47.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
-            this.tabPage24.ResumeLayout(false);
-            this.uiTableLayoutPanel49.ResumeLayout(false);
-            this.uiTableLayoutPanel50.ResumeLayout(false);
-            this.uiTitlePanel48.ResumeLayout(false);
-            this.uiTitlePanel49.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
             this.tabPageSoftwareActivation.ResumeLayout(false);
             this.uiTabControl7.ResumeLayout(false);
-            this.tabPage25.ResumeLayout(false);
-            this.uiTableLayoutPanel51.ResumeLayout(false);
-            this.uiTitlePanel50.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
-            this.uiTableLayoutPanel52.ResumeLayout(false);
-            this.uiTitlePanel51.ResumeLayout(false);
-            this.tabPage26.ResumeLayout(false);
-            this.uiTableLayoutPanel53.ResumeLayout(false);
-            this.uiTableLayoutPanel54.ResumeLayout(false);
-            this.uiTitlePanel52.ResumeLayout(false);
-            this.uiTitlePanel53.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
-            this.tabPage27.ResumeLayout(false);
-            this.uiTableLayoutPanel55.ResumeLayout(false);
-            this.uiTableLayoutPanel56.ResumeLayout(false);
-            this.uiTitlePanel54.ResumeLayout(false);
-            this.uiTitlePanel55.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
-            this.tabPage28.ResumeLayout(false);
-            this.uiTableLayoutPanel57.ResumeLayout(false);
-            this.uiTableLayoutPanel58.ResumeLayout(false);
-            this.uiTitlePanel56.ResumeLayout(false);
-            this.uiTitlePanel57.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            this.tabPage29.ResumeLayout(false);
-            this.uiTableLayoutPanel59.ResumeLayout(false);
-            this.uiTableLayoutPanel60.ResumeLayout(false);
-            this.uiTitlePanel58.ResumeLayout(false);
-            this.uiTitlePanel59.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             this.uiTableLayoutPanel3.ResumeLayout(false);
             this.uiTableLayoutPanel4.ResumeLayout(false);
             this.tabPage5.ResumeLayout(false);
@@ -4518,106 +3048,17 @@
         private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel32;
         private Sunny.UI.UITitlePanel uiTitlePanel31;
         private Sunny.UI.UILabel uiLabel15;
-        private Sunny.UI.UIButton uiButton15;
+        private Sunny.UI.UIButton btLcUninstaller;
         private TabPage tabPage16;
         private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel33;
         private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel34;
         private Sunny.UI.UITitlePanel uiTitlePanel32;
         private Sunny.UI.UILabel uiLabel16;
-        private Sunny.UI.UIButton uiButton16;
+        private Sunny.UI.UIButton btLcStartupManager;
         private Sunny.UI.UITitlePanel uiTitlePanel33;
         private PictureBox pictureBox12;
-        private TabPage tabPage17;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel35;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel36;
-        private Sunny.UI.UITitlePanel uiTitlePanel34;
-        private Sunny.UI.UILabel uiLabel17;
-        private Sunny.UI.UIButton uiButton17;
-        private Sunny.UI.UITitlePanel uiTitlePanel35;
-        private PictureBox pictureBox13;
-        private TabPage tabPage18;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel37;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel38;
-        private Sunny.UI.UITitlePanel uiTitlePanel36;
-        private Sunny.UI.UILabel uiLabel18;
-        private Sunny.UI.UIButton uiButton18;
-        private Sunny.UI.UITitlePanel uiTitlePanel37;
-        private PictureBox pictureBox14;
-        private TabPage tabPage19;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel39;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel40;
-        private Sunny.UI.UITitlePanel uiTitlePanel38;
-        private Sunny.UI.UILabel uiLabel19;
-        private Sunny.UI.UIButton uiButton19;
-        private Sunny.UI.UITitlePanel uiTitlePanel39;
-        private PictureBox pictureBox15;
-        private Sunny.UI.UITabControl uiTabControl6;
-        private TabPage tabPage21;
-        private TabPage tabPage22;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel45;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel46;
-        private Sunny.UI.UITitlePanel uiTitlePanel44;
-        private Sunny.UI.UILabel uiLabel22;
-        private Sunny.UI.UIButton uiButton22;
-        private Sunny.UI.UITitlePanel uiTitlePanel45;
-        private PictureBox pictureBox18;
-        private TabPage tabPage23;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel47;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel48;
-        private Sunny.UI.UITitlePanel uiTitlePanel46;
-        private Sunny.UI.UILabel uiLabel23;
-        private Sunny.UI.UIButton uiButton23;
-        private Sunny.UI.UITitlePanel uiTitlePanel47;
-        private PictureBox pictureBox19;
-        private TabPage tabPage24;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel49;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel50;
-        private Sunny.UI.UITitlePanel uiTitlePanel48;
-        private Sunny.UI.UILabel uiLabel24;
-        private Sunny.UI.UIButton uiButton24;
-        private Sunny.UI.UITitlePanel uiTitlePanel49;
-        private PictureBox pictureBox20;
         private Sunny.UI.UITabControl uiTabControl7;
         private TabPage tabPage25;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel51;
-        private Sunny.UI.UITitlePanel uiTitlePanel50;
-        private PictureBox pictureBox21;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel52;
-        private Sunny.UI.UITitlePanel uiTitlePanel51;
-        private Sunny.UI.UILabel uiLabel25;
-        private Sunny.UI.UIButton uiButton25;
-        private TabPage tabPage26;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel53;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel54;
-        private Sunny.UI.UITitlePanel uiTitlePanel52;
-        private Sunny.UI.UILabel uiLabel26;
-        private Sunny.UI.UIButton uiButton26;
-        private Sunny.UI.UITitlePanel uiTitlePanel53;
-        private PictureBox pictureBox22;
-        private TabPage tabPage27;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel55;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel56;
-        private Sunny.UI.UITitlePanel uiTitlePanel54;
-        private Sunny.UI.UILabel uiLabel27;
-        private Sunny.UI.UIButton uiButton27;
-        private Sunny.UI.UITitlePanel uiTitlePanel55;
-        private PictureBox pictureBox23;
-        private TabPage tabPage28;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel57;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel58;
-        private Sunny.UI.UITitlePanel uiTitlePanel56;
-        private Sunny.UI.UILabel uiLabel28;
-        private Sunny.UI.UIButton uiButton28;
-        private Sunny.UI.UITitlePanel uiTitlePanel57;
-        private PictureBox pictureBox24;
-        private TabPage tabPage29;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel59;
-        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel60;
-        private Sunny.UI.UITitlePanel uiTitlePanel58;
-        private Sunny.UI.UILabel uiLabel29;
-        private Sunny.UI.UIButton uiButton29;
-        private Sunny.UI.UITitlePanel uiTitlePanel59;
-        private PictureBox pictureBox25;
         private TabPage tabPage30;
         private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel61;
         private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel62;
@@ -4642,5 +3083,8 @@
         private Sunny.UI.UIButton btLcDiskScanner;
         private Sunny.UI.UITitlePanel uiTitlePanel65;
         private PictureBox pictureBox28;
+        private Sunny.UI.UITabControl uiTabControl6;
+        private TabPage tabPage21;
+        private TabPage tabPage20;
     }
 }
