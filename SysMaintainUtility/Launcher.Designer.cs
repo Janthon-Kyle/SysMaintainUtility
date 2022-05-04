@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Launcher));
             this.uiTabControlLauncherMenu = new Sunny.UI.UITabControlMenu();
             this.tabPageSysMaintain = new System.Windows.Forms.TabPage();
@@ -159,7 +160,17 @@
             this.tabPageDriverInstall = new System.Windows.Forms.TabPage();
             this.uiTabControl6 = new Sunny.UI.UITabControl();
             this.tabPage21 = new System.Windows.Forms.TabPage();
-            this.tabPage20 = new System.Windows.Forms.TabPage();
+            this.lbKMDrvInstStatus = new Sunny.UI.UILabel();
+            this.KMDrvInstProgressIndicator = new Sunny.UI.UIProgressIndicator();
+            this.btKMDrvInst = new Sunny.UI.UIButton();
+            this.tbKMPortAddress = new Sunny.UI.UITextBox();
+            this.tbKMPortName = new Sunny.UI.UITextBox();
+            this.uiMarkLabel2 = new Sunny.UI.UIMarkLabel();
+            this.uiMarkLabel1 = new Sunny.UI.UIMarkLabel();
+            this.rbGroupKMModel = new Sunny.UI.UIRadioButtonGroup();
+            this.rbKMC368 = new Sunny.UI.UIRadioButton();
+            this.rbKMC266 = new Sunny.UI.UIRadioButton();
+            this.rbKMC226 = new Sunny.UI.UIRadioButton();
             this.tabPageSoftwareActivation = new System.Windows.Forms.TabPage();
             this.uiTabControl7 = new Sunny.UI.UITabControl();
             this.tabPage25 = new System.Windows.Forms.TabPage();
@@ -197,6 +208,10 @@
             this.uiButton8 = new Sunny.UI.UIButton();
             this.uiTitlePanel14 = new Sunny.UI.UITitlePanel();
             this.uiTableLayoutPanel15 = new Sunny.UI.UITableLayoutPanel();
+            this.bgInstKMDrvC226 = new System.ComponentModel.BackgroundWorker();
+            this.bgInstKMDrvC266 = new System.ComponentModel.BackgroundWorker();
+            this.bgInstKMDrvC368 = new System.ComponentModel.BackgroundWorker();
+            this.timerWorkStatus = new System.Windows.Forms.Timer(this.components);
             this.uiTabControlLauncherMenu.SuspendLayout();
             this.tabPageSysMaintain.SuspendLayout();
             this.uiTabControl18.SuspendLayout();
@@ -296,6 +311,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             this.tabPageDriverInstall.SuspendLayout();
             this.uiTabControl6.SuspendLayout();
+            this.tabPage21.SuspendLayout();
+            this.rbGroupKMModel.SuspendLayout();
             this.tabPageSoftwareActivation.SuspendLayout();
             this.uiTabControl7.SuspendLayout();
             this.uiTableLayoutPanel3.SuspendLayout();
@@ -2080,7 +2097,7 @@
             this.tabPage16.Controls.Add(this.uiTableLayoutPanel33);
             this.tabPage16.Location = new System.Drawing.Point(0, 0);
             this.tabPage16.Name = "tabPage16";
-            this.tabPage16.Size = new System.Drawing.Size(544, 313);
+            this.tabPage16.Size = new System.Drawing.Size(200, 60);
             this.tabPage16.TabIndex = 2;
             this.tabPage16.Text = "Startup Manager";
             // 
@@ -2097,7 +2114,7 @@
             this.uiTableLayoutPanel33.Name = "uiTableLayoutPanel33";
             this.uiTableLayoutPanel33.RowCount = 1;
             this.uiTableLayoutPanel33.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.uiTableLayoutPanel33.Size = new System.Drawing.Size(544, 313);
+            this.uiTableLayoutPanel33.Size = new System.Drawing.Size(200, 60);
             this.uiTableLayoutPanel33.TabIndex = 2;
             this.uiTableLayoutPanel33.TagString = null;
             // 
@@ -2108,12 +2125,12 @@
             this.uiTableLayoutPanel34.Controls.Add(this.uiTitlePanel32, 0, 0);
             this.uiTableLayoutPanel34.Controls.Add(this.btLcStartupManager, 0, 1);
             this.uiTableLayoutPanel34.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.uiTableLayoutPanel34.Location = new System.Drawing.Point(379, 3);
+            this.uiTableLayoutPanel34.Location = new System.Drawing.Point(35, 3);
             this.uiTableLayoutPanel34.Name = "uiTableLayoutPanel34";
             this.uiTableLayoutPanel34.RowCount = 2;
             this.uiTableLayoutPanel34.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.57375F));
             this.uiTableLayoutPanel34.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.42625F));
-            this.uiTableLayoutPanel34.Size = new System.Drawing.Size(162, 307);
+            this.uiTableLayoutPanel34.Size = new System.Drawing.Size(162, 54);
             this.uiTableLayoutPanel34.TabIndex = 2;
             this.uiTableLayoutPanel34.TagString = null;
             // 
@@ -2128,7 +2145,7 @@
             this.uiTitlePanel32.Name = "uiTitlePanel32";
             this.uiTitlePanel32.Padding = new System.Windows.Forms.Padding(0, 28, 0, 0);
             this.uiTitlePanel32.ShowText = false;
-            this.uiTitlePanel32.Size = new System.Drawing.Size(154, 249);
+            this.uiTitlePanel32.Size = new System.Drawing.Size(154, 35);
             this.uiTitlePanel32.TabIndex = 0;
             this.uiTitlePanel32.Text = "工具简介";
             this.uiTitlePanel32.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2142,7 +2159,7 @@
             this.uiLabel16.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.uiLabel16.Location = new System.Drawing.Point(0, 28);
             this.uiLabel16.Name = "uiLabel16";
-            this.uiLabel16.Size = new System.Drawing.Size(154, 221);
+            this.uiLabel16.Size = new System.Drawing.Size(154, 7);
             this.uiLabel16.TabIndex = 0;
             this.uiLabel16.Text = "HiBit Startup Manager 是一个功能强大的启动实用程序，通过添加或删除应用程序，编辑其属性以及管理进程、服务、任务计划程序和菜单来管理自动启动程" +
     "序。";
@@ -2153,10 +2170,10 @@
             // 
             this.btLcStartupManager.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btLcStartupManager.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btLcStartupManager.Location = new System.Drawing.Point(3, 262);
+            this.btLcStartupManager.Location = new System.Drawing.Point(3, 48);
             this.btLcStartupManager.MinimumSize = new System.Drawing.Size(1, 1);
             this.btLcStartupManager.Name = "btLcStartupManager";
-            this.btLcStartupManager.Size = new System.Drawing.Size(156, 42);
+            this.btLcStartupManager.Size = new System.Drawing.Size(156, 3);
             this.btLcStartupManager.TabIndex = 1;
             this.btLcStartupManager.Text = "运行";
             this.btLcStartupManager.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
@@ -2173,7 +2190,7 @@
             this.uiTitlePanel33.Name = "uiTitlePanel33";
             this.uiTitlePanel33.Padding = new System.Windows.Forms.Padding(0, 35, 0, 0);
             this.uiTitlePanel33.ShowText = false;
-            this.uiTitlePanel33.Size = new System.Drawing.Size(368, 303);
+            this.uiTitlePanel33.Size = new System.Drawing.Size(24, 50);
             this.uiTitlePanel33.TabIndex = 0;
             this.uiTitlePanel33.Text = "工具截图";
             this.uiTitlePanel33.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2186,7 +2203,7 @@
             this.pictureBox12.Image = global::SysMaintainUtility.Properties.Resources.sc_HBStartupManager;
             this.pictureBox12.Location = new System.Drawing.Point(0, 35);
             this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(368, 268);
+            this.pictureBox12.Size = new System.Drawing.Size(24, 15);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox12.TabIndex = 1;
             this.pictureBox12.TabStop = false;
@@ -2205,7 +2222,6 @@
             // 
             this.uiTabControl6.Alignment = System.Windows.Forms.TabAlignment.Bottom;
             this.uiTabControl6.Controls.Add(this.tabPage21);
-            this.uiTabControl6.Controls.Add(this.tabPage20);
             this.uiTabControl6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.uiTabControl6.DrawMode = System.Windows.Forms.TabDrawMode.OwnerDrawFixed;
             this.uiTabControl6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
@@ -2227,20 +2243,162 @@
             // tabPage21
             // 
             this.tabPage21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
+            this.tabPage21.Controls.Add(this.lbKMDrvInstStatus);
+            this.tabPage21.Controls.Add(this.KMDrvInstProgressIndicator);
+            this.tabPage21.Controls.Add(this.btKMDrvInst);
+            this.tabPage21.Controls.Add(this.tbKMPortAddress);
+            this.tabPage21.Controls.Add(this.tbKMPortName);
+            this.tabPage21.Controls.Add(this.uiMarkLabel2);
+            this.tabPage21.Controls.Add(this.uiMarkLabel1);
+            this.tabPage21.Controls.Add(this.rbGroupKMModel);
             this.tabPage21.Location = new System.Drawing.Point(0, 0);
             this.tabPage21.Name = "tabPage21";
             this.tabPage21.Size = new System.Drawing.Size(544, 313);
             this.tabPage21.TabIndex = 2;
             this.tabPage21.Text = "KONICA MINOLTA";
             // 
-            // tabPage20
+            // lbKMDrvInstStatus
             // 
-            this.tabPage20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
-            this.tabPage20.Location = new System.Drawing.Point(0, 0);
-            this.tabPage20.Name = "tabPage20";
-            this.tabPage20.Size = new System.Drawing.Size(200, 60);
-            this.tabPage20.TabIndex = 3;
-            this.tabPage20.Text = "brother";
+            this.lbKMDrvInstStatus.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbKMDrvInstStatus.Location = new System.Drawing.Point(3, 239);
+            this.lbKMDrvInstStatus.Name = "lbKMDrvInstStatus";
+            this.lbKMDrvInstStatus.Size = new System.Drawing.Size(213, 38);
+            this.lbKMDrvInstStatus.TabIndex = 5;
+            this.lbKMDrvInstStatus.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lbKMDrvInstStatus.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // KMDrvInstProgressIndicator
+            // 
+            this.KMDrvInstProgressIndicator.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.KMDrvInstProgressIndicator.Location = new System.Drawing.Point(380, 165);
+            this.KMDrvInstProgressIndicator.MinimumSize = new System.Drawing.Size(1, 1);
+            this.KMDrvInstProgressIndicator.Name = "KMDrvInstProgressIndicator";
+            this.KMDrvInstProgressIndicator.Size = new System.Drawing.Size(66, 66);
+            this.KMDrvInstProgressIndicator.TabIndex = 4;
+            this.KMDrvInstProgressIndicator.Visible = false;
+            this.KMDrvInstProgressIndicator.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // btKMDrvInst
+            // 
+            this.btKMDrvInst.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btKMDrvInst.Location = new System.Drawing.Point(266, 239);
+            this.btKMDrvInst.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btKMDrvInst.Name = "btKMDrvInst";
+            this.btKMDrvInst.Size = new System.Drawing.Size(82, 38);
+            this.btKMDrvInst.TabIndex = 3;
+            this.btKMDrvInst.Text = "安装";
+            this.btKMDrvInst.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.btKMDrvInst.Click += new System.EventHandler(this.BtKMDrvInst_Click);
+            // 
+            // tbKMPortAddress
+            // 
+            this.tbKMPortAddress.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tbKMPortAddress.Location = new System.Drawing.Point(108, 203);
+            this.tbKMPortAddress.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tbKMPortAddress.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tbKMPortAddress.Name = "tbKMPortAddress";
+            this.tbKMPortAddress.ShowText = false;
+            this.tbKMPortAddress.Size = new System.Drawing.Size(240, 28);
+            this.tbKMPortAddress.TabIndex = 2;
+            this.tbKMPortAddress.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.tbKMPortAddress.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // tbKMPortName
+            // 
+            this.tbKMPortName.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tbKMPortName.Location = new System.Drawing.Point(108, 165);
+            this.tbKMPortName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tbKMPortName.MinimumSize = new System.Drawing.Size(1, 16);
+            this.tbKMPortName.Name = "tbKMPortName";
+            this.tbKMPortName.ShowText = false;
+            this.tbKMPortName.Size = new System.Drawing.Size(240, 28);
+            this.tbKMPortName.TabIndex = 2;
+            this.tbKMPortName.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.tbKMPortName.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // uiMarkLabel2
+            // 
+            this.uiMarkLabel2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiMarkLabel2.Location = new System.Drawing.Point(3, 203);
+            this.uiMarkLabel2.Name = "uiMarkLabel2";
+            this.uiMarkLabel2.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.uiMarkLabel2.Size = new System.Drawing.Size(98, 28);
+            this.uiMarkLabel2.TabIndex = 1;
+            this.uiMarkLabel2.Text = "端口地址：";
+            this.uiMarkLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.uiMarkLabel2.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // uiMarkLabel1
+            // 
+            this.uiMarkLabel1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.uiMarkLabel1.Location = new System.Drawing.Point(3, 165);
+            this.uiMarkLabel1.Name = "uiMarkLabel1";
+            this.uiMarkLabel1.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.uiMarkLabel1.Size = new System.Drawing.Size(98, 28);
+            this.uiMarkLabel1.TabIndex = 1;
+            this.uiMarkLabel1.Text = "端口名称：";
+            this.uiMarkLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.uiMarkLabel1.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // rbGroupKMModel
+            // 
+            this.rbGroupKMModel.Controls.Add(this.rbKMC368);
+            this.rbGroupKMModel.Controls.Add(this.rbKMC266);
+            this.rbGroupKMModel.Controls.Add(this.rbKMC226);
+            this.rbGroupKMModel.Dock = System.Windows.Forms.DockStyle.Top;
+            this.rbGroupKMModel.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.rbGroupKMModel.Location = new System.Drawing.Point(0, 0);
+            this.rbGroupKMModel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.rbGroupKMModel.MinimumSize = new System.Drawing.Size(1, 1);
+            this.rbGroupKMModel.Name = "rbGroupKMModel";
+            this.rbGroupKMModel.Padding = new System.Windows.Forms.Padding(0, 32, 0, 0);
+            this.rbGroupKMModel.Size = new System.Drawing.Size(544, 153);
+            this.rbGroupKMModel.TabIndex = 0;
+            this.rbGroupKMModel.Text = "打印机型号";
+            this.rbGroupKMModel.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.rbGroupKMModel.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // rbKMC368
+            // 
+            this.rbKMC368.BackColor = System.Drawing.Color.Transparent;
+            this.rbKMC368.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.rbKMC368.Location = new System.Drawing.Point(3, 105);
+            this.rbKMC368.MinimumSize = new System.Drawing.Size(1, 1);
+            this.rbKMC368.Name = "rbKMC368";
+            this.rbKMC368.Padding = new System.Windows.Forms.Padding(22, 0, 0, 0);
+            this.rbKMC368.Size = new System.Drawing.Size(538, 29);
+            this.rbKMC368.TabIndex = 0;
+            this.rbKMC368.Text = "KONICA MINOLTA bizhub C368";
+            this.rbKMC368.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.rbKMC368.CheckedChanged += new System.EventHandler(this.RbKMC368_CheckedChanged);
+            // 
+            // rbKMC266
+            // 
+            this.rbKMC266.BackColor = System.Drawing.Color.Transparent;
+            this.rbKMC266.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.rbKMC266.Location = new System.Drawing.Point(3, 70);
+            this.rbKMC266.MinimumSize = new System.Drawing.Size(1, 1);
+            this.rbKMC266.Name = "rbKMC266";
+            this.rbKMC266.Padding = new System.Windows.Forms.Padding(22, 0, 0, 0);
+            this.rbKMC266.Size = new System.Drawing.Size(538, 29);
+            this.rbKMC266.TabIndex = 0;
+            this.rbKMC266.Text = "KONICA MINOLTA bizhub C266";
+            this.rbKMC266.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.rbKMC266.CheckedChanged += new System.EventHandler(this.RbKMC266_CheckedChanged);
+            // 
+            // rbKMC226
+            // 
+            this.rbKMC226.BackColor = System.Drawing.Color.Transparent;
+            this.rbKMC226.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.rbKMC226.Location = new System.Drawing.Point(3, 35);
+            this.rbKMC226.MinimumSize = new System.Drawing.Size(1, 1);
+            this.rbKMC226.Name = "rbKMC226";
+            this.rbKMC226.Padding = new System.Windows.Forms.Padding(22, 0, 0, 0);
+            this.rbKMC226.Size = new System.Drawing.Size(538, 29);
+            this.rbKMC226.TabIndex = 0;
+            this.rbKMC226.Text = "KONICA MINOLTA bizhub C226";
+            this.rbKMC226.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            this.rbKMC226.CheckedChanged += new System.EventHandler(this.RbKMC226_CheckedChanged);
             // 
             // tabPageSoftwareActivation
             // 
@@ -2780,6 +2938,29 @@
             this.uiTableLayoutPanel15.TabIndex = 0;
             this.uiTableLayoutPanel15.TagString = null;
             // 
+            // bgInstKMDrvC226
+            // 
+            this.bgInstKMDrvC226.WorkerReportsProgress = true;
+            this.bgInstKMDrvC226.WorkerSupportsCancellation = true;
+            this.bgInstKMDrvC226.DoWork += new System.ComponentModel.DoWorkEventHandler(this.BgInstKMDrvC226_DoWork);
+            // 
+            // bgInstKMDrvC266
+            // 
+            this.bgInstKMDrvC266.WorkerReportsProgress = true;
+            this.bgInstKMDrvC266.WorkerSupportsCancellation = true;
+            this.bgInstKMDrvC266.DoWork += new System.ComponentModel.DoWorkEventHandler(this.BgInstKMDrvC266_DoWork);
+            // 
+            // bgInstKMDrvC368
+            // 
+            this.bgInstKMDrvC368.WorkerReportsProgress = true;
+            this.bgInstKMDrvC368.WorkerSupportsCancellation = true;
+            this.bgInstKMDrvC368.DoWork += new System.ComponentModel.DoWorkEventHandler(this.BgInstKMDrvC368_DoWork);
+            // 
+            // timerWorkStatus
+            // 
+            this.timerWorkStatus.Interval = 1000;
+            this.timerWorkStatus.Tick += new System.EventHandler(this.TimerWorkStatus_Tick);
+            // 
             // Launcher
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -2893,6 +3074,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             this.tabPageDriverInstall.ResumeLayout(false);
             this.uiTabControl6.ResumeLayout(false);
+            this.tabPage21.ResumeLayout(false);
+            this.rbGroupKMModel.ResumeLayout(false);
             this.tabPageSoftwareActivation.ResumeLayout(false);
             this.uiTabControl7.ResumeLayout(false);
             this.uiTableLayoutPanel3.ResumeLayout(false);
@@ -3085,6 +3268,20 @@
         private PictureBox pictureBox28;
         private Sunny.UI.UITabControl uiTabControl6;
         private TabPage tabPage21;
-        private TabPage tabPage20;
+        private Sunny.UI.UIRadioButtonGroup rbGroupKMModel;
+        private Sunny.UI.UIRadioButton rbKMC368;
+        private Sunny.UI.UIRadioButton rbKMC266;
+        private Sunny.UI.UIRadioButton rbKMC226;
+        private Sunny.UI.UIButton btKMDrvInst;
+        private Sunny.UI.UITextBox tbKMPortAddress;
+        private Sunny.UI.UITextBox tbKMPortName;
+        private Sunny.UI.UIMarkLabel uiMarkLabel2;
+        private Sunny.UI.UIMarkLabel uiMarkLabel1;
+        private Sunny.UI.UILabel lbKMDrvInstStatus;
+        private Sunny.UI.UIProgressIndicator KMDrvInstProgressIndicator;
+        private System.ComponentModel.BackgroundWorker bgInstKMDrvC226;
+        private System.ComponentModel.BackgroundWorker bgInstKMDrvC266;
+        private System.ComponentModel.BackgroundWorker bgInstKMDrvC368;
+        private System.Windows.Forms.Timer timerWorkStatus;
     }
 }
